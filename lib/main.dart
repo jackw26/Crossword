@@ -70,7 +70,7 @@ class _CreatePuzzleGridPageState extends State<CreatePuzzleGridPage> {
 
   @override
   Widget build(BuildContext context) {
-    // This method is rerun every time setState is called, for instance as done
+    // This method is rerun every time setState is called for instance as done
     // by the _incrementCounter method above.
     //
     // The Flutter framework has been optimized to make rerunning build methods
